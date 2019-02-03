@@ -1,8 +1,16 @@
+autopep8==1.4.3
 certifi==2018.11.29
 chardet==3.0.4
 enum34==1.1.6
 idna==2.8
+numpy==1.16.1
+pandas==0.24.0
+pep8==1.7.1
+pycodestyle==2.5.0
+python-dateutil==2.7.5
+pytz==2018.9
 requests==2.21.0
 six==1.12.0
 urllib3==1.24.1
 vk-api==11.4.0
+xlrd==1.2.0
